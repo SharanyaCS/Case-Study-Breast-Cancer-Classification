@@ -94,3 +94,4 @@ grid_predictions=grid.predict(X_test_scaled)
 cm=confusion_matrix(y_test,grid_predictions)
 sns.heatmap(cm,annot=True)
 print(classification_report(y_test,grid_predictions))
+
