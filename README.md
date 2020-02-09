@@ -1,8 +1,8 @@
-# Case-Study-Breast-Cancer-Classification
+#Case-Study-Breast-Cancer-Classification
 
-#This case study is done using Support Vector Machine Algorithm to classify whether the tumour is benign or malignant and Cross Validation With Parameter Tuning Using Grid Search.
+#Predicting whether the tumour is benign or malignant using Support Vector Machine and Cross Validation With Parameter Tuning Using Grid Search.
 
-#Predicting if the cancer diagnosis is benign or malignant based on several observations/features
+#Cancer diagnosis done based on several observations/features
 30 features are used, examples:
 
   - radius (mean of distances from center to points on the perimeter)
@@ -19,6 +19,7 @@ Datasets are linearly separable using all 30 input features
 
 Number of Instances: 569
 Class Distribution: 212 Malignant, 357 Benign
+
 Target class:
    - Malignant
    - Benign
