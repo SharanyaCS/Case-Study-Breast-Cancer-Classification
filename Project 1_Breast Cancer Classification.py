@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 30 13:59:52 2020
-
-@author: Chandra BOSS
-"""
 # Import libraries 
 import pandas as pd # Import Pandas for data manipulation using dataframes
 import numpy as np # Import Numpy for data statistical analysis 
