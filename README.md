@@ -1,4 +1,4 @@
-# Case-Study-Breast-Cancer-Classification
+# Case Study Breast Cancer Classification
 
 #Predicting whether the tumour is benign or malignant using Support Vector Machine and Cross Validation With Parameter Tuning Using Grid Search.
 
