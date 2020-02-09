@@ -1,5 +1,7 @@
 # Case Study : Breast Cancer Classification
 
+![image.png](attachment:image.png)
+
 #Predicting whether the tumour is benign or malignant using Support Vector Machine and Cross Validation With Parameter Tuning Using Grid Search.
 
 #Cancer diagnosis done based on several observations/features
