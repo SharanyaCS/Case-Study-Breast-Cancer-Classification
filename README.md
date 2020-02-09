@@ -16,6 +16,7 @@
   - concave points (number of concave portions of the contour)
   - symmetry 
   - fractal dimension ("coastline approximation" - 1)
+  
 Datasets are linearly separable using all 30 input features
 
 Number of Instances: 569
