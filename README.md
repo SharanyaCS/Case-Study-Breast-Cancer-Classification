@@ -1,5 +1,5 @@
 # Case Study : Breast Cancer Classification
-![Breast cancer.png](https://github.com/SharanyaCS/Case-Study-Breast-Cancer-Classification/blob/master/breast-cancer-awareness-3914243_960_720.png|width=60)
+![Breast cancer.png](https://github.com/SharanyaCS/Case-Study-Breast-Cancer-Classification/blob/master/breast-cancer-awareness-3914243_960_720.png=28x48)
 #Predicting whether the tumour is benign or malignant using Support Vector Machine and Cross Validation With Parameter Tuning Using Grid Search.
 
 #Cancer diagnosis done based on several observations/features
