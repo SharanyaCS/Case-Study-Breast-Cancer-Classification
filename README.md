@@ -1,9 +1,10 @@
 # Case Study : Breast Cancer Classification
-![Breast cancer.png](https://github.com/SharanyaCS/Case-Study-Breast-Cancer-Classification/blob/master/breast-cancer-awareness-3914243_960_720.png)
+![Breast cancer.png](https://github.com/SharanyaCS/Case-Study-Breast-Cancer-Classification/blob/master/breast-cancer-awareness-3914243_960_720.png|width=60)
 #Predicting whether the tumour is benign or malignant using Support Vector Machine and Cross Validation With Parameter Tuning Using Grid Search.
 
 #Cancer diagnosis done based on several observations/features
-30 features are used, examples:
+
+30 features are used:
 
   - radius (mean of distances from center to points on the perimeter)
   - texture (standard deviation of gray-scale values)
